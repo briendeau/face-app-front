@@ -1,4 +1,5 @@
 Created by Brian Riendeau.
+Live link - https://facedetection1.herokuapp.com/
 
 This is the front-end react used to build my face-detection application using the clarifai api that handles artificial intelligence detection.
 1. Clone this repo
